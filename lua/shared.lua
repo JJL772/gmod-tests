@@ -1,0 +1,2 @@
+print("Shared script initialization")
+
